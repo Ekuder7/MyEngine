@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Ekuder\source\repos\MyEngine\MyEngine\source\main.cpp(48,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ekuder\source\repos\MyEngine\MyEngine\source\main.cpp(58,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 549 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MyEngine.vcxproj -> C:\Users\Ekuder\source\repos\MyEngine\x64\Release\MyEngine.exe

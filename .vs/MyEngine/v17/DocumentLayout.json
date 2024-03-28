@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\Voxels\\Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\Voxels\\Chunk.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\globals.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\globals.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9C6B01E-1428-489F-9900-B2ECF4FC1883}|MyEngine\\MyEngine.vcxproj|solutionrelative:MyEngine\\source\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chunk.cpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.cpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\Voxels\\Chunk.cpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.cpp",
+              "RelativeToolTip": "MyEngine\\source\\Voxels\\Chunk.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T20:26:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chunk.hpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.hpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\Voxels\\Chunk.hpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Voxels\\Chunk.hpp",
+              "RelativeToolTip": "MyEngine\\source\\Voxels\\Chunk.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T20:26:37.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "globals.hpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\globals.hpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\globals.hpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\globals.hpp",
+              "RelativeToolTip": "MyEngine\\source\\globals.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T19:17:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.hpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.hpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\Window.hpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.hpp",
+              "RelativeToolTip": "MyEngine\\source\\Window.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T16:01:50.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.cpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\Window.cpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\Window.cpp",
+              "RelativeToolTip": "MyEngine\\source\\Window.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T14:24:28.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\main.cpp",
+              "RelativeDocumentMoniker": "MyEngine\\source\\main.cpp",
+              "ToolTip": "C:\\Users\\Ekuder\\source\\repos\\MyEngine\\MyEngine\\source\\main.cpp",
+              "RelativeToolTip": "MyEngine\\source\\main.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T19:00:20.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

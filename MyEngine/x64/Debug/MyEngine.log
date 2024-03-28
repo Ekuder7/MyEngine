@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ekuder\source\repos\MyEngine\MyEngine\source\main.cpp(48,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ekuder\source\repos\MyEngine\MyEngine\source\main.cpp(58,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyEngine.vcxproj -> C:\Users\Ekuder\source\repos\MyEngine\x64\Debug\MyEngine.exe
